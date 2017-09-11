@@ -4,11 +4,7 @@
 public class ClassB {
 
     public void methodA() {
-
-    }
-
-    public void methodB() {
-
+        System.out.println();
     }
 
     public void methodC() {
