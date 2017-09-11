@@ -4,6 +4,7 @@
 public class ClassC {
 
     public void methodA() {
+        System.out.println();
 
     }
 
@@ -12,6 +13,6 @@ public class ClassC {
     }
 
     public void methodC() {
-
+        System.out.println();
     }
 }
