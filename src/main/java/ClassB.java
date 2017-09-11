@@ -3,10 +3,6 @@
  */
 public class ClassB {
 
-    public void methodA() {
-
-    }
-
     public void methodB() {
 
     }
